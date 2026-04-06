@@ -27,7 +27,7 @@ Git
 Installation
 Clone the repository:
 
-git clone https://github.com/Ayushsav/social-media.git
+git clone https://github.com/maheshwagh03/socialmedia.git
 Navigate to the project directory:
 
 cd social-media
